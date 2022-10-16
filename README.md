@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm KVK Satish</h1>
 <h3 align="center"> 🖐 I am a passionate full-stack developer 💻</h3>
-<hr height="0.5px" >
+<hr height="1px" >
 <h5>I am an enthusiastic full-stack developer. Making ideas into reality with code is one of my favorite things to do,
 My passion is solving real-world problems with software solutions and building effective applications. Along with coding, I enjoy exploring distant places and traveling. The news is something I enjoy following and keeping up with.<h5>
 
