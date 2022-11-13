@@ -48,12 +48,14 @@ My passion is solving real-world problems with software solutions and building e
 </p>
 <br>
 
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvksatish&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="kvksatish" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvksatish&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="kvksatish" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvksatish&show_icons=true&locale=en&theme=github_dark" alt="kvksatish" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvksatish&show_icons=true&locale=en&theme=github_dark" alt="kvksatish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvksatish&theme=blueberry_duo" alt="kvksatish" /></p>
