@@ -47,6 +47,16 @@ My passion is solving real-world problems with software solutions and building e
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
+  
+  
+  
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvksatish&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="kvkstats" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvksatish&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="kvksatishlang" height="139" />
+</p>
+<br>
 
 <h2><i>My GitHub Stats</i></h2>
 
