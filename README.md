@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **kvksatish105@outlook.com**
+- 📫 How to reach me **kvksatish98@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing](https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing)
 
