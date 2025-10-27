@@ -13,9 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvksatish&label=Profile%20views&color=0e75b6&style=flat" alt="kvksatish" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kvksatish.netlify.app/](https://kvksatish.netlify.app/)
-
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **kvksatish98@gmail.com**
 
